@@ -12,7 +12,7 @@ import NotFound from '@/pages/404'
 //Routering
 export const router = new Router({
 	// mode: 'history',
-	base: "./",
+	// base: "./",
 	scrollBehavior: () => ({ x: 0, y: 0 }),
 	routes: [
 		{
