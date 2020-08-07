@@ -1,5 +1,12 @@
 # vue-cli
 
+
+## Open this application 
+```
+login: admin@mail.ru
+password: 123123
+```
+
 ## Project setup
 ```
 npm install
