@@ -1,7 +1,7 @@
 # vue-cli
 
 
-## Open this application 
+## Authorization
 ```
 login: admin@mail.ru
 password: 123123
